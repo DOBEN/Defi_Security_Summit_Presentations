@@ -2,4 +2,4 @@ Talk at the Defi Security Summit (https://defisecuritysummit.org/) on 2nd Novemb
 
 The presentation slides are [here](DirtyBits_DorisBenda_DSS2026.pdf).
 
-The recording of the presentation will be available soon.
+The recording of the presentation is [here]([https://www.youtube.com/watch?v=pDgE8wlN1kE&t=1440s]).
